@@ -1,6 +1,8 @@
 # simple-bulletin-board
-- I created a bulletin board using a text file.
+PHP演習(2020) - シンプル掲示板
 
-# Overview
-- コメントとユーザー、パスワードを入れて投稿すると画面に表示されます。
-- 投稿内容はテキストに保存されます。
+## 実行方法
+```sh
+cd public
+php -S localhost:8000
+```
